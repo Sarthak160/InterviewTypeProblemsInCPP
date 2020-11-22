@@ -2,6 +2,7 @@
 #define int long long
 using namespace std;
 
+// i will do my best , whatever it takes !!
 string intToString(int n)
 {
     int temp = 0;
@@ -31,6 +32,7 @@ int stringToInt(string s)
 
 int32_t main()
 {
+
     int n;
     cin >> n;
     string its = intToString(n);
